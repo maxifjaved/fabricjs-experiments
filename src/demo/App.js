@@ -4,8 +4,7 @@ import { SecondExample } from '../lib';
 
 const App = () => (
   <div>
-    <Example />
-    <SecondExample />
+    
   </div>
 );
 

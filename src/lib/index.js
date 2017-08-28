@@ -1,6 +1,5 @@
-import Example from './components/Example';
-import SecondExample from './components/SecondExample';
-
+var Example = '';
+var SecondExample = '';
 export default Example;
 export {
   SecondExample
